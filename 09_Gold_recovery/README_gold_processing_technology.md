@@ -1,4 +1,4 @@
-# Gold recovery
+# [Gold recovery] (https://github.com/boyarskayas/Yandex_practikum_pojects/blob/main/09_Gold_recovery/gold_processing_technology.ipynb)
 
 **ОПИСАНИЕ ПРОЕКТА:**
 
