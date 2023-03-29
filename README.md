@@ -17,7 +17,10 @@ Projects created while practicing in the Data Science Specialist educational pro
 *Описание проекта:* На основе данных сервиса Яндекс.Недвижимость определена рыночная стоимость объектов недвижимости разного типа, типичные параметры квартир, в зависимости от удаленности от центра. Проведена предобработка данных. Добавлены новые данные. Построены графикиб гистограммы, боксплоты, диаграммы рассеивания.
 *Навыки и инструменты:* Python, Pandas, Matplotlib, Seaborn, исследовательский анализ данных, визуализация данных, предобработка данных
 
-# [Статистический анализ данных / Statistical data analysis](https://github.com/boyarskayas/Yandex_practikum_projects/blob/main/04_Statistical_data_analysis/statistical%20data%20analysis.ipynb)
+- [Статистический анализ данных / Statistical data analysis](https://github.com/boyarskayas/Yandex_practikum_projects/blob/main/04_Statistical_data_analysis/statistical%20data%20analysis.ipynb)
+*Задача:* На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа.
+*Описание:* Проведен предварительный анализ использования тарифов на выборке клиентов, проанализировано поведение клиентов при использовании услуг оператора и рекомендованы оптимальные наборы услуг для пользователей. Проведена предобработка данных, их анализ. Проверены гипотезы о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов.
+*Навыки и инструменты:* Python, Pandas, Matplotlib, NumPy, SciPy, описательная статистика, проверка статистических гипотез.
 
+- [Сборный проект / Generalizing project 01](https://github.com/boyarskayas/Yandex_practikum_projects/blob/main/05_Games_market_research/games_market_research.ipynb)
 
-Сборный проект / Generalizing project 01
