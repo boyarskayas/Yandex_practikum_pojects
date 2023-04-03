@@ -34,3 +34,7 @@ Projects created while practicing in the Data Science Specialist educational pro
 - [Машинное обучение для бизнеса / ML for business](https://github.com/boyarskayas/Yandex_practikum_projects/tree/main/08_oil_well_location).  
 *Задача:* На основе данных геологоразведки выбрать район добычи нефти. Построить модель для определения региона, где добыча принесёт наибольшую прибыль.  
 *Навыки и инструменты:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+- [Линейная алгебра / linear algebra](https://github.com/boyarskayas/Yandex_practikum_projects/tree/main/10_Personal_data_protection).  
+*Задача:* Разработка модели анонимизации персональных данных  
+*Навыки и инструменты:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
