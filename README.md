@@ -45,5 +45,5 @@ Projects created while practicing in the Data Science Specialist educational pro
 
 - [Временные ряды / Time Series](https://github.com/boyarskayas/Yandex_practikum_projects/tree/main/12_Taxi_orders_forecasting).  
 *Задача:* Разработка системы предсказания объема заказа  
-*Навыки и инструменты:* Python, Pandas, NumPy, TimeSeriesSplit, Matplotlib, Seaborn, Scikit-learn, Catboost, lightgbm 
+*Навыки и инструменты:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Catboost, lightgbm 
  Matplotlib, Seaborn, Scikit-learn, Catboost, lightgbm 
