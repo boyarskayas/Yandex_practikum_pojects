@@ -28,6 +28,9 @@ Projects created while practicing in the Data Science Specialist educational pro
 *Навыки и инструменты:* Python, Pandas, Matplotlib, Scikit-learn
 
 - [Обучение с учителем / Supervised learning](https://github.com/boyarskayas/Yandex_practikum_projects/tree/main/07_Customer_ezodus_forecast).  
-*Задача:* Спрогнозировать, уйдёт клиент из банка в ближайшее время или нет, на основе предоставленных исторических данных о поведении клиентов и расторжении договоров с банком. Нужно построить модель с предельно большим значением F1-меры и довести метрику до 0.59, дополнительно измерять AUC-ROC, сравнивайте её значение с F1-мерой. 
+*Задача:* Спрогнозировать, уйдёт клиент из банка в ближайшее время или нет, на основе предоставленных исторических данных о поведении клиентов и расторжении договоров с банком. Нужно построить модель с предельно большим значением F1-меры и довести метрику до 0.59, дополнительно измерять AUC-ROC, сравнивать её значение с F1-мерой.  
 *Навыки и инструменты:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
+- [Машинное обучение для бизнеса / ML for business](https://github.com/boyarskayas/Yandex_practikum_projects/tree/main/08_oil_well_location).  
+*Задача:* На основе данных геологоразведки выбрать район добычи нефти. Построить модель для определения региона, где добыча принесёт наибольшую прибыль.  
+*Навыки и инструменты:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
