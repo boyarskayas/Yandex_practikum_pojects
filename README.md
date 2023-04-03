@@ -38,3 +38,7 @@ Projects created while practicing in the Data Science Specialist educational pro
 - [Линейная алгебра / linear algebra](https://github.com/boyarskayas/Yandex_practikum_projects/tree/main/10_Personal_data_protection).  
 *Задача:* Разработка модели анонимизации персональных данных  
 *Навыки и инструменты:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+- [Численные методы / Numeric methods](https://github.com/boyarskayas/Yandex_practikum_projects/tree/main/11_Car_price_determine).  
+*Задача:* Разработка системы рекомендации стоимости автомобиля на основе его описания  
+*Навыки и инструменты:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Catboost, lightgbm 
