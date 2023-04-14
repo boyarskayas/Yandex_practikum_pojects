@@ -51,4 +51,7 @@ Projects created while practicing in the Data Science Specialist educational pro
 *Задача:* Определение токсичности комментариев  
 *Навыки и инструменты:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLP, nltk, tf-idf, SpaCy, Catboost
  
+ - [Компьютерное зрение / Computer Vision](https://github.com/boyarskayas/Yandex_practikum_projects/tree/main/15_Age_determing).  
+*Задача:* Определение возраста по фотографии.  
+*Навыки и инструменты:* Python, Keras, Pandas, NumPy, Matplotlib, Seaborn
 
