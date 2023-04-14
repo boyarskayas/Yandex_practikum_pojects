@@ -53,5 +53,5 @@ Projects created while practicing in the Data Science Specialist educational pro
  
  - [Компьютерное зрение / Computer Vision](https://github.com/boyarskayas/Yandex_practikum_projects/tree/main/15_Age_determing).  
 *Задача:* Определение возраста по фотографии.  
-*Навыки и инструменты:* Python, Keras, Pandas, NumPy, Matplotlib, Seaborn
+*Навыки и инструменты:* Python, Keras, Tensorflow, Pandas, NumPy, Matplotlib, Seaborn
 
